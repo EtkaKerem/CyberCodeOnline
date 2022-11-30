@@ -646,7 +646,7 @@
  	 	 	 	 	"eng": "Malfunctioned"
  	 	 	 	},
  	 	 	 	"instruction": {
- 	 	 	 	 	"trans": "Bu eşya kırılmış gibi gözüküyor, tamir etmek için Silah Tamircisine götür",
+ 	 	 	 	 	"trans": "Bu eşya kırılmış, tamir etmek için Silah Tamircisine götürün",
  	 	 	 	 	"eng": "This item is broken, bring it to Weapon Smith for repair"
  	 	 	 	}
  	 	 	},
@@ -2744,7 +2744,7 @@
  	 	 	 	"eng": "Calibration Safety"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Kalibrasyon başarısız olur öğeyi yok etmeyecek",
+ 	 	 	 	"trans": "Kalibrasyon başarısız olursa öğeyi yok etmeyecek",
  	 	 	 	"eng": "Calibration fails will not destroy the item"
  	 	 	}
  	 	},
@@ -2876,7 +2876,7 @@
  	 	 	"vars": [
  	 	 	 	"globalQuestPoint"
  	 	 	],
- 	 	 	"trans": "${globalQuestPoint} SL Veri Kalesi ihlali ilerlemesi",
+ 	 	 	"trans": "${globalQuestPoint} SL Veri Kalesi ihlal ilerlemesi",
  	 	 	"eng": "${globalQuestPoint} SL Data Fortress breach progress"
  	 	}
  	},
@@ -3075,7 +3075,7 @@
  	 	 	"eng": "Min"
  	 	},
  	 	"max": {
- 	 	 	"trans": "maksimum",
+ 	 	 	"trans": "max",
  	 	 	"eng": "max"
  	 	}
  	},
